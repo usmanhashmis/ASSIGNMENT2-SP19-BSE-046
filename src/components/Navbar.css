@@ -1,0 +1,42 @@
+  .navbar-light .navbar-brand {
+    /* color: rgb(250, 250, 250); */
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-right: 3in;
+  }
+  
+
+  .navbar-light {
+      background-color:rgb(10, 0, 0);
+      margin-left: 50px;
+      margin-right: 50px;
+  }
+
+  .navbar-nav {
+    text-align: right;
+    font-weight: bold;
+    
+  }
+  
+  .navbar-toggler {
+    padding: 1px 5px;
+    font-size: 18px;
+    line-height: 0.3;
+  }
+  
+ 
+  .nav-item:hover{
+      background-color: blue;
+      -webkit-border-radius: 8px;
+      -moz-border-radius: 8px;
+      border-radius: 8px;
+      
+  }
+ #removes li{
+     list-style: none;
+ }
+
+  
+  
