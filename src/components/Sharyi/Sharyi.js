@@ -57,6 +57,13 @@ const Sharyi = () => {
                 >
                   Edit
                 </Link>
+                <Link
+                  align="left"
+                  variant="text"
+                  to={"/Sharyi/edit/" + person._id}
+                >
+                  Delete
+                </Link>
               </TableRow>
             ))}
           </TableBody>
